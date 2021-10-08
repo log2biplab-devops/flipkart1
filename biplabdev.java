@@ -1,4 +1,4 @@
-merge code line1
+merge code line2
 updated file for merge both branch biplab_dev
 
 tested
